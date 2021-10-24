@@ -1,4 +1,12 @@
-# cut-the-knot-probability-riddles
+---
+layout: post
+title: "Index: Cut the Knot"
+categories: notes
+modified_date: "Aug 20, 2021"
+author:
+- Jovan Sardinha
+---
+
 
 || Chapter 1             | Chapter 2 | Chapter 3        | Chapter 4         | Chapter 5             | Chapter 6     | Chapter 7               | Chapter 8    | Chapter 9                     | Chapter 10                                            | Chapter 11            |
 || Intuitive Probability | What is Probability | Likely Surprises | Basic Probability | Geometric Probability | Combinatorics | Conditional Probability | Expectations | Recurrences and Markov Chains | Sampling of American Mathematics Competition Problems | Elementary Statistics |
