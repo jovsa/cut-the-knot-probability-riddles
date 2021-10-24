@@ -1,7 +1,17 @@
-# cut-the-knot-probability-riddles
+# Cut the Knot: Probability Riddles
 
-|| Chapter 1             | Chapter 2 | Chapter 3        | Chapter 4         | Chapter 5             | Chapter 6     | Chapter 7               | Chapter 8    | Chapter 9                     | Chapter 10                                            | Chapter 11            |
-|| Intuitive Probability | What is Probability | Likely Surprises | Basic Probability | Geometric Probability | Combinatorics | Conditional Probability | Expectations | Recurrences and Markov Chains | Sampling of American Mathematics Competition Problems | Elementary Statistics |
+How do you learn a language? There are two routes; the first is to memorize imperfect verbs, grammatical rules, future vs. past tenses, recite boring context-free sentences, and pass an exam. The second approach consists in going to a bar, struggling a little bit and, out of the need to blend-in and integrate with a fun group of people, then suddenly find yourself able to communicate. In other words, by playing, by being alive as a human being. I personally have never seen anyone learn to speak a language properly by the first route. Also, I have never seen anyone fail to do so by the second one.
+
+It is a not well-known fact that mathematics can also be learned by playing –just watch the private correspondence, discussions and pranks of the members of the august Bourbaki circle. Some of us (and it includes this author) do not perform well on tasks via “cold” approaches, unable to muster the motivation to do boring things. But, somehow we upregulate when stimulated or when there is play (or money) involved. This may disturb many people married to cookie-cutter pedagogical methods that require things to be drab, boring, and bureaucratic for them to be effective –but that’s reality.
+
+[continue reading](https://medium.com/incerto/maestro-bogomolny-8498f08c0f0c)
+
+
+## My Index
+
+> last_modified_date: "Oct 24, 2021"
+
+|| Intuitive Probability [Ch. 1] | What is Probability [Ch. 2] | Likely Surprises [Ch. 3] | Basic Probability [Ch. 4] | Geometric Probability [Ch. 5] | Combinatorics [Ch. 6] | Conditional Probability [Ch. 7] | Expectations [Ch. 8] | Recurrences and Markov Chains [Ch. 9] | Sampling of American Mathematics Competition Problems  [Ch. 10] | Elementary Statistics [Ch. 11] |
 |--- |--- |--- |---|---|---|---|---|---|---|---|---|
 | 1  |  🔘 | ⚫ | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | ✅ | 🔘 | 🔘 | 🔘 |
 | 2  |  🔘 | ⚫ | 🔘 | ✅ | 🔘 | 🔘 | 🔘 | 🔘 | ✅ | 🔘 | 🔘 |
