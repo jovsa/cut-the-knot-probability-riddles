@@ -7,6 +7,8 @@ It is a not well-known fact that mathematics can also be learned by playing –j
 [continue reading](https://medium.com/incerto/maestro-bogomolny-8498f08c0f0c)
 
 
+To view mathjax in this repo, it is recommended to install [MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima/related?hl=en)
+
 ## My Index
 
 > last_modified_date: "Oct 24, 2021"
