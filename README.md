@@ -11,7 +11,7 @@ To view mathjax in this repo, it is recommended to install [MathJax Plugin for G
 
 ## My Index
 
-> last_modified_date: "Oct 24, 2021"
+> last_modified_date: "Nov 5, 2021"
 
 || Intuitive Probability [Ch. 1] | What is Probability [Ch. 2] | Likely Surprises [Ch. 3] | Basic Probability [Ch. 4] | Geometric Probability [Ch. 5] | Combinatorics [Ch. 6] | Conditional Probability [Ch. 7] | Expectations [Ch. 8] | Recurrences and Markov Chains [Ch. 9] | Sampling of American Mathematics Competition Problems  [Ch. 10] | Elementary Statistics [Ch. 11] |
 |--- |--- |--- |---|---|---|---|---|---|---|---|---|
@@ -31,7 +31,7 @@ To view mathjax in this repo, it is recommended to install [MathJax Plugin for G
 | 14 |  ⚫ | ⚫ | ⚫ | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | ⚫ | ⚫ | ⚫ |
 | 15 |  ⚫ | ⚫ | ⚫ | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | ⚫ | ⚫ | ⚫ |
 | 16 |  ⚫ | ⚫ | ⚫ | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | ⚫ | ⚫ | ⚫ |
-| 17 |  ⚫ | ⚫ | ⚫ | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | ⚫ | ⚫ | ⚫ |
+| 17 |  ⚫ | ⚫ | ⚫ | 🔘 | 🔘 | 🔘 | ✅ | 🔘 | ⚫ | ⚫ | ⚫ |
 | 18 |  ⚫ | ⚫ | ⚫ | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | ⚫ | ⚫ | ⚫ |
 | 19 |  ⚫ | ⚫ | ⚫ | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | ⚫ | ⚫ | ⚫ |
 | 20 |  ⚫ | ⚫ | ⚫ | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | ⚫ | ⚫ | ⚫ |
