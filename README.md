@@ -11,7 +11,21 @@ It is a not well-known fact that mathematics can also be learned by playing –j
 
 ## My Index
 
-> last_modified_date: "Nov 5, 2021"
+### Chapter Notes
+
+Intuitive Probability [Ch. 1]
+What is Probability [Ch. 2]
+Likely Surprises [Ch. 3]
+Basic Probability [Ch. 4]
+Geometric Probability [Ch. 5]
+Combinatorics [Ch. 6]
+Conditional Probability [Ch. 7]
+Expectations [Ch. 8]
+Recurrences and Markov Chains [Ch. 9]
+Sampling of American Mathematics Competition Problems  [Ch. 10]
+Elementary Statistics [Ch. 11]
+
+### Completion Map
 
 || Intuitive Probability [Ch. 1] | What is Probability [Ch. 2] | Likely Surprises [Ch. 3] | Basic Probability [Ch. 4] | Geometric Probability [Ch. 5] | Combinatorics [Ch. 6] | Conditional Probability [Ch. 7] | Expectations [Ch. 8] | Recurrences and Markov Chains [Ch. 9] | Sampling of American Mathematics Competition Problems  [Ch. 10] | Elementary Statistics [Ch. 11] |
 |--- |--- |--- |---|---|---|---|---|---|---|---|---|
